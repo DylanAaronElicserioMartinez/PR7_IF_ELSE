@@ -48,4 +48,5 @@ else:#si no se ejecuta if se ejecutara else
  
  print ("z > y > x")#print imprimira en la pantalla (z) es mayor a (y) es mayor a (x)
 
-![image](https://github.com/user-attachments/assets/41c5bc56-2cb1-41d4-bb39-28134b030668)
+![image](https://github.com/user-attachments/assets/d7a052f7-2937-4220-99b6-cb8f684a594a)
+
